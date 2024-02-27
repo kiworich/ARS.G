@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    height: 70px;
+    width: auto;
+    background-color: blanchedalmond;
+    margin: 15px;
+    padding: 7px;
+    border-radius: 15px;
+}
+
+#logo {
+    float: left;
+    text-align: center;
+    height: 7px;
+    width: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#logo p {
+    font-size: 40px;
+    padding-top: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: darkgoldenrod;
+}
+
+.button {
+    float: right;
+    text-align: center;
+    height: 7px;
+    width: 10px;
+    margin-right: 110px;
+}
+
+.button p {
+    padding-top: 23px;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+#main {
+    height: 700px;
+    width: auto;
+    background-color: aqua;
+}
