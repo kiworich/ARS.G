@@ -7,7 +7,7 @@ header {
     height: 70px;
     width: auto;
     background-color: blanchedalmond;
-    margin: 0px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
     padding: 7px;
     border-radius: 15px;
 }
@@ -43,9 +43,15 @@ header {
     color: darkgoldenrod;
 }
 
+body {
+    background-color:lemonchiffon;
+}
+
 #main {
-    height: 700px;
+    height: 400px;
     width: auto;
-    background-color: aqua;
-    padding-top: 15px;
+    background-color: blanchedalmond;
+    margin: 15px 15px 15px 15px;
+    padding: 7px;
+    border-radius: 15px;
 }
