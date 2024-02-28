@@ -7,7 +7,7 @@ header {
     height: 70px;
     width: auto;
     background-color: blanchedalmond;
-    margin: 15px;
+    margin: 0px 15px 15px 15px;
     padding: 7px;
     border-radius: 15px;
 }
@@ -47,4 +47,5 @@ header {
     height: 700px;
     width: auto;
     background-color: aqua;
+    padding-top: 15px;
 }
