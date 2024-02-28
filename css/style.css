@@ -3,13 +3,25 @@
     padding: 0px;
 }
 
+body {
+    background-image: url('https://media1.tenor.com/m/IFF7AVJqTfcAAAAC/chibidoki-burp.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
 header {
     height: 70px;
     width: auto;
-    background-color: blanchedalmond;
+    background-color:blueviolet;
     margin: 15px 15px 15px 15px;
     padding: 7px;
     border-radius: 15px;
+    opacity: 90%;
 }
 
 #logo {
@@ -21,12 +33,17 @@ header {
     margin-right: 10px;
 }
 
+#logo img {
+    width: 100px;
+    height: 30px;
+}
+
 #logo p {
     font-size: 40px;
     padding-top: 11px;
     padding-left: 10px;
     padding-right: 10px;
-    color: darkgoldenrod;
+    color:azure;
 }
 
 .button {
@@ -37,21 +54,56 @@ header {
     margin-right: 110px;
 }
 
+.button img {
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+}
+
 .button p {
     padding-top: 23px;
     font-size: 20px;
-    color: darkgoldenrod;
-}
-
-body {
-    background-color:lemonchiffon;
+    color:azure;
 }
 
 #main {
-    height: 400px;
+    height: 690px;
     width: auto;
-    background-color: blanchedalmond;
+    background-color:blueviolet;
     margin: 15px 15px 15px 15px;
     padding: 7px;
     border-radius: 15px;
+    opacity: 90%;
+}
+
+footer {
+    height: 100px;
+    width: auto;
+    background-color:blueviolet;
+    margin: 15px 15px 15px 15px;
+    padding: 7px;
+    border-radius: 15px;
+    opacity: 90%;
+}
+
+footer p {
+    text-align: center;
+    line-height: 100px;
+    color: aliceblue;
+    font-size: 30px;
+    float: left;
+    
+}
+
+footer img {
+    padding-top: 25px;
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding-left: 15px;
+}
+  
+#chibidoki {
+    margin-left: 600px;
+    padding-right: 15px;
 }
